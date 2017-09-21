@@ -35,5 +35,6 @@ The first several stages will be tutorial based stages.
 The player will definitely need to learn the patrol paths of guards, location of items, and best of use weapons.
 
 ## VIII. Screenshots
-
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
