@@ -35,8 +35,9 @@ The first several stages will be tutorial based stages.
 The player will definitely need to learn the patrol paths of guards, location of items, and best of use weapons.
 
 ## VIII. Screenshots
-Inline-style: 
 ![alt text](https://github.com/Cadekanbi/IGME-230/edit/master/NinjaConceptArt.png "Concept Art 1")
-Inline-style: 
 ![alt text](https://github.com/Cadekanbi/IGME-230/edit/master/NinjaConceptArt2.png "Concept Art 2")
+
+## IX. About the developer
+I am currently a 2nd year GDD (Game Design & Development) student at RIT. I intend to pursue a career in the Gaming Industry, with an emphasis on Game Development and or being a Technical Artist. With my current ciriculum, I hope to gain the skills necessary to not just be prepared for whatever job I get, but to also understand the industry and my options.
 
