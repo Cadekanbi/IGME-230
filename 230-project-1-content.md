@@ -1,6 +1,6 @@
-# Catch a Ninja
+# World of Ninjas
 
 ## I. High Concept
-Ninjas have existed for centuries. Probably. The tales of their heightened senses, craftiness,    have left people in awe.
-tempered blade
-If a ninja kills in a forest and no one is around to hear it, does it make a sound? How will you know when you've met a ninja? You won't
+For centuries ninjas have made their silent mark on the world. The stories of their heightened senses, vast assortment of weapons, and mastery of stealth strike people with fear. The idea of being slain with the silent tempered blade of a master assassin is hard to truly acertain. How can a human be so stealthy and deadly? Well, this game will show you the ninja way!
+If a ninja kills in a forest and no one is around to hear it, does it make a sound? Find out in this nail-biting stealth adventure. Expect unbelievably difficult covert missions and cunning enemies that will test your meddle and patience. 
+Enter the world of ninjas.
