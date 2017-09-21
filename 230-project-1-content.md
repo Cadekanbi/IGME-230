@@ -36,6 +36,7 @@ The player will definitely need to learn the patrol paths of guards, location of
 
 ## VIII. Screenshots
 ![Concept 1](https://github.com/Cadekanbi/IGME-230/edit/master/NinjaConceptArt.png "Concept Art 1")
+
 ![Concept 2](https://github.com/Cadekanbi/IGME-230/edit/master/NinjaConceptArt2.png "Concept Art 2")
 
 ## IX. About the developer
