@@ -36,5 +36,7 @@ The player will definitely need to learn the patrol paths of guards, location of
 
 ## VIII. Screenshots
 Inline-style: 
-![alt text](https://github.com/Cadekanbi/IGME-230/edit/master/ "Logo Title Text 1")
+![alt text](https://github.com/Cadekanbi/IGME-230/edit/master/NinjaConceptArt.png "Concept Art 1")
+Inline-style: 
+![alt text](https://github.com/Cadekanbi/IGME-230/edit/master/NinjaConceptArt2.png "Concept Art 2")
 
